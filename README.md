@@ -5,3 +5,5 @@ This is a simple tachometer that uses a SparkFun line sensor to count the time b
 
 Use the following sensor or similar:
 https://www.sparkfun.com/products/11769
+
+This was created to measure the speed of a motor controlled by https://github.com/vs2048/MotorTestStand
