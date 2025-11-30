@@ -1,7 +1,7 @@
 # Tachometer
-A tachometer that uses a line following sensor.
+A tachometer that uses any type of sensor that sends a pulse once a revolution.
 
-This is a simple tachometer that uses a SparkFun line sensor to count the time between revolutions on a shaft. Tape a black line onto a shaft and aim the sensor at it and this library will calculate the rotational velocity of the shaft. Measured speed is written to a 16x2 segment LCD or the tach library can be used independantly.
+I used SparkFun line following sensor and a piece of white tape on the drill chuck. As the tachometer detects pulses it continuously calibrates. It can output to a standard 16x2 LCD or this can be used as a library in larger projects.
 
 Use the following sensor or similar:
 https://www.sparkfun.com/products/11769
